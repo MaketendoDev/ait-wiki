@@ -26,6 +26,6 @@ In the menu on the top will say **Settings** click onto it and it will preview s
 
 **Security** lets you choose what **Security Options** you want and is talked about in this [**TARDIS Security**]({{ site.baseurl }}{% post_url 2024-02-02-customising-a-tardis %}) page. 
 
-Finally the **Sonic Options** is able for you to display your **Sonic Data** and change your **Sonic Shell** and is talked about in [**Sonic**]({{ site.baseurl }}{% post_url 2024-03-09-sonic %}) page. 
+Finally the **Sonic Options** is able for you to display your **Sonic Data** and change your **Sonic Shell** and is talked about in [**Sonic**](www.nonexistantwebsite.com) page. 
 
 ![Settings](images/monitor/settings.png)
