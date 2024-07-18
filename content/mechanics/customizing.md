@@ -16,9 +16,9 @@ type: docs
 2. Navigate to the interior change screen by clicking **"Desktop Settings" -> "Change Interior"**.
 3. Use the arrows to change the selected interior.
 4. To start **Interior Reconfiguration**, click the image of the desktop you want.
-5. The process will use up [**5000 AU**]({{ site.baseurl }}{% post_url 2024-01-26-artron-energy %}).
+5. The process will use up [**5000 AU**](www.nonexistantwebsite.com).
 6. Exit the interior, and wait for the cloister bells to stop ringing.
-You're also able to add your own custom desktops with [**datapacks**]({{ site.baseurl }}{% post_url 2024-02-02-datapack-interiors %}). 
+You're also able to add your own custom desktops with [**datapacks**](www.nonexistantwebsite.com). 
 
 ---
 
