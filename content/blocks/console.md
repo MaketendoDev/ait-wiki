@@ -41,7 +41,7 @@ The **Exterior Facing Control** will change which direction exterior faces next 
 
 The **Fast Return Control** will set the destination coordinates to the last location the TARDIS landed. Right-click the Fast Return control to activate fast return, click it again to set the destination to your current location.
 
-The [**Protocol Controls**]({{ site.baseurl }}{% post_url 2024-01-01-TARDIS-Protocols %}) are explained in this webpage.
+The [**Protocol Controls**](www.makemypagefirst.com) are explained in this webpage.
 
 The **Anti-Gravity Control** will make the TARDIS exterior immune to falling, but uses [**Artron Energy**](../../mechanics/artron) while activating.
 
