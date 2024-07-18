@@ -45,7 +45,7 @@ The [**Protocol Controls**](www.makemypagefirst.com) are explained in this webpa
 
 The **Anti-Gravity Control** will make the TARDIS exterior immune to falling, but uses [**Artron Energy**](../../mechanics/artron) while activating.
 
-The [**Waypoint Controls**]({{ site.baseurl }}{% post_url 2024-1-31-waypoints %}) are better explained in this webpage.
+The [**Waypoint Controls**](www.alsome.com) are better explained in this webpage.
 
 The **Power Control** switches the TARDIS engines off and turns the power off, rendering most of the console non-functional. If activated while other controls are activated it will disable those controls.
 
