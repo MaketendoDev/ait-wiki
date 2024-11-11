@@ -53,7 +53,7 @@ type: docs
 
 ## Example Reference That's Easy to Follow :)
 > This is just an example, do not use the ID "(namespace)" and make sure you're not using any parentheses. Those are just there for making sure you replace (namespace) with your own ID and (exterior_texture_name) with your texture's name.
->> Also see > [Exterior Variant Categories]({{ site.baseurl }}{% post_url 2024-02-05-custom-categories %})
+>> Also see > Exterior Variant Categories
 
 Once you're finished, the json file should look like this:
 ```json
