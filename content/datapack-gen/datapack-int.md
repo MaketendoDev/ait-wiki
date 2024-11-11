@@ -1,6 +1,11 @@
-</html>
-</head>
-<body>
+---
+title: Customizing TARDIS
+type: docs
+---
+
+hi
+
+<div class="aside">
     <div id="packFormContainer">
         <h1 style="font-family: 'Verdana', sans-serif; font-weight: bold; color: #2d76a2;"><a href="https://pavatus.github.io/ait-wiki/datapacks/interiors/">Datapack Desktop</a></h1>
         
@@ -25,5 +30,4 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
     <script src="main.js"></script>
-</body>
-</html>
+<div>
