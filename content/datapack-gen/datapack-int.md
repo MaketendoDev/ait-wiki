@@ -5,7 +5,7 @@ type: docs
 
 hi
 
-<div class="aside">
+<div>
     <div id="packFormContainer">
         <h1 style="font-family: 'Verdana', sans-serif; font-weight: bold; color: #2d76a2;"><a href="https://pavatus.github.io/ait-wiki/datapacks/interiors/">Datapack Desktop</a></h1>
         
